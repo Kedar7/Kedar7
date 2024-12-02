@@ -27,4 +27,4 @@ Welcome to my GitHub profile. I’m a Front-End Developer with over 6 years of e
 - **Performance optimization** in both frameworks.
 
 ## How to reach me
-- LinkedIn: [linkedin.com/in/kedar-kulkarni](https://linkedin.com/in/kedar-kulkarni)
+- LinkedIn: https://www.linkedin.com/in/kedar-kulkarni-18a321ab/
