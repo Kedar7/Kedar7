@@ -8,16 +8,17 @@ Welcome to my GitHub profile. I’m a Front-End Developer with over 6 years of e
 - Improving **app performance** through **lazy loading**, **AOT compilation**, and **tree shaking** in Angular, and **React.memo** and **React.lazy** for React.
 
 ## I’m currently learning
-- Advanced **TypeScript** patterns and **performance optimization** in Angular and React.
+- ow to develop a large-scale application using React.js, implement CI/CD, deploy applications, and monitor their performance.
+- Advanced **performance optimization** in Angular and React.
 - **Server-side rendering** (SSR) with **Next.js** (React).
-- Testing strategies in **React** (Jest, React Testing Library) and **Angular** (Jasmine, Karma).
+- Learning Three.js to create and render interactive 3D graphics in web browsers.
+  
 
 ## I’m looking to collaborate on
 - Open-source projects focused on **UI/UX** and **web performance**.
 - Building **modular UI components** and reusable libraries with **Angular** and **React**.
 
 ## I’m looking for help with
-- Optimizing **front-end performance** in both **Angular** and **React**.
 - Advanced **state management** techniques in complex applications.
 - Improving **CI/CD** for Angular and React projects.
 
