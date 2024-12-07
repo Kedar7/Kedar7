@@ -7,8 +7,7 @@ Welcome to my GitHub profile. I’m a Front-End Developer with over 6 years of e
 - Advanced **performance optimization** in Angular and React.
 - **Server-side rendering** (SSR) with **Next.js** (React).
 - Learning Three.js to create and render interactive 3D graphics in web browsers.
-
-- 
+ 
 ## I’m currently working on
 - Building **scalable web applications** using **Angular** and **React**.
 - Enhancing **state management** with **NgRx** (Angular) and **Redux** (React).
