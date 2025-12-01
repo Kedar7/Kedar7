@@ -3,10 +3,12 @@
 Welcome to my GitHub profile. I’m a Front-End Developer with over 6 years of experience, specializing in **Angular** and **React**. I’m passionate about building high-performance, scalable web applications with a focus on great user experiences.
 
 ## I’m currently learning
-- How to develop a large-scale application using React.js, implement CI/CD, deploy applications, and monitor their performance.
+- How to develop a large-scale application using React.js, implement CI/CD pipelines, deploy applications, and monitor their performance.
 - Advanced **performance optimization** in Angular and React.
-- **Server-side rendering** (SSR) with **Next.js** (React).
-- Learning Three.js to create and render interactive 3D graphics in web browsers.
+- Core **DevOps** practices such as Docker, CI/CD automation, cloud deployments, monitoring, and logging.
+- **Kubernetes (K8s)** for orchestration and **Helm** for application packaging and deployment.
+- **Machine Learning & AI** fundamentals, including LLMs, embeddings, vector databases, and building end-to-end AI-driven applications.
+
  
 ## I’m currently working on
 - Building **scalable web applications** using **Angular** and **React**.
