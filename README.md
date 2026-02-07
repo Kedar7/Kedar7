@@ -1,7 +1,5 @@
 # Hello, I'm Kedar Kulkarni! 👋
 
-Welcome to my GitHub profile. I’m a Front-End Developer with over 6 years of experience, specializing in **Angular** and **React**. I’m passionate about building high-performance, scalable web applications with a focus on great user experiences.
-
 ## I’m currently learning
 - How to develop a large-scale application using React.js, implement CI/CD pipelines, deploy applications, and monitor their performance.
 - Advanced **performance optimization** in Angular and React.
