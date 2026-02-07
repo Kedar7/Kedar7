@@ -1,7 +1,6 @@
 # Hello, I'm Kedar Kulkarni! 👋
 
 ## I’m currently learning
-- How to develop a large-scale application using React.js, implement CI/CD pipelines, deploy applications, and monitor their performance.
 - Advanced **performance optimization** in Angular and React.
 - Core **DevOps** practices such as Docker, CI/CD automation, cloud deployments, monitoring, and logging.
 - **Kubernetes (K8s)** for orchestration and **Helm** for application packaging and deployment.
